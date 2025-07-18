@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "nom": "alaoui",
+        "prenom": "mohamed",
+        "age": 19,
+        "email": "mohamed@gmail.com",
+        "tel": "098765454",
+        "note1": 12.0,
+        "note2": 13.0,
+        "note3": 15.0,
+        "moyenne": 13.333333333333334
+    }
+]
